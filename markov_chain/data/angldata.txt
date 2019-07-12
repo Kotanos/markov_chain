@@ -1,0 +1,101 @@
+Webmasters develop and maintain Web sites and resources. The job may include backup of
+the company Web site, updating resources, or development of new resources. Webmasters are often
+involved in the design and development of the Web site. Some Webmasters monitor traffic on the site
+and take steps to encourage users to visit the site. Webmasters also may work with marketing
+personnel to increase site traffic and may be involved in development of Web promotions.
+Technical writers prepare instruction manuals, technical reports, and other scientific or
+technical documents. Most technical writers work for computer software firms, government agencies,
+or research institutions. They translate technical information into easily understandable instructions or
+summaries. As new technology continues to develop and expand, the need for technical writers who
+can communicate technical expertise to others is expected to increase.
+Network administrators manage a company’s networks. They may be responsible for design,
+implementation, and maintenance of networks. Responsibilities usually include maintenance of both
+hardware and software related to a company’s networks. Network administrators are typically
+responsible for diagnosing and repairing problems with these networks. Some network administrators
+are responsible for planning and implementation of network security as well.
+Cryptographers design systems, break systems, and do research on encryption.
+Responsibilities typically do not include building and maintaining the computer networks that use
+cryptography; these are the duties of security engineers and network administrators. In general,
+cryptographers are mathematicians who specialize in making and breaking codes. Many
+cryptographers work as consultants or professors of cryptography, yet there are full-time positions
+available at some large corporations or for the government.
+Database administrators use database management software to determine the most efficient
+ways to organize and access a company’s data. Additionally, database administrators are typically
+responsible for maintaining database security and backing up the system. Database administration is a
+fast-growing industry and substantial job growth is expected.
+A systems analyst follows the steps described in the systems life cycle. Analysts plan and
+design new systems or reorganize a company’s computer resources to best utilize them. Analysts
+follow the systems life cycle through all its steps: preliminary investigation, analysis, design,
+development, implementation, and maintenance.
+Programmers or developers (in general) create, test, and troubleshoot programs used by
+computers. Programmers also may update and repair existing programs. Most computer programmers
+are employed by companies that create and sell software, but programmers also may be employed in
+various other businesses. Many computer programmers work on a project basis as consultants,
+meaning they are hired by a company only to complete a specific program.
+Data architects oversee the design and maintenance of data across a variety of information
+systems and databases. The main goal of data architects is to ensure that data in a system or database is
+accurate and readily accessible. More than just administering a system, data architects must employ
+knowledge and analytical skills to determine if data is being handled in the best, most efficient way
+possible, and what methods can be implemented to improve existing systems. Data architects work
+alongside other IT professionals in teams.
+Computer technical support specialists engage in troubleshooting and problem solving, both
+within a corporation and for individual clients. Computer technical support specialists draw on general
+knowledge of computer systems, hardware, and software, as well as knowledge of specific products, to
+improve technological issues. Some individuals in this field work for technical support service
+companies, while others work within corporations or agencies. Computer technical support specialists
+must maintain up-to-date knowledge of current technologies and technological issues.
+User interface designers work to ensure that software functions smoothly and logically for
+users and consumers.
+User interface designers operate within a software development team to design, create, and
+troubleshoot the user interface aspects of software. User interface designers rely on technical
+knowledge, familiarity with a variety of programming languages, critical thinking, and ingenuity to
+ensure that the user experience for software is not hampered by a poorly designed interface.
+Applications architects ensure individual software projects follow the organization’s
+application development methodology and parameters. They also ensure the project fits a company’s
+technology infrastructure and business strategy.
+Typically, large companies employ applications architects to work with a diverse set of existing
+applications that need to be integrated with numerous new application development projects. Based on
+an employer’s design standards, applications architects design components of applications.
+Cloud solutions architects design solutions for companies seeking to move their IT
+infrastructure and services from on-premise servers to a cloud-based storage solution.
+Cloud solutions architects define the cloud structure for a company and work with business
+analysts to make sure the architecture is in line with business requirements. They also make sure the
+cloud service provides high availability, scalability, and fault tolerance. Cloud solutions architects
+manage cloud infrastructure and ensure that private and public clouds interface well.
+Web developers collect or create web content and plan website layouts and navigation, as well
+as coding for web pages. They also test and optimize a website for user experience and optimum
+performance.
+Web developers draw on expert knowledge in programming languages used for the web to
+develop front-end and back-end aspects of websites and applications. They need to be highly proficient
+with HTML, Javascript, and CSS, and should be familiar with server-side programming languages to
+develop more complex applications. Web developers typically work in teams alongside web designers
+and other IT professionals.
+Information security analysts develop and implement computer security strategies and
+systems to protect vital information from computer crime and cyber warfare.
+Information security analysts monitor networks for security breaches and, when required,
+respond to attacks with countermeasures. Information security analysts must understand the current
+state of threats in the field, the needs of their employers, and current systems available for combating
+threats to information security. Information security analysts also educate employees on computer
+security.
+Mobile application developers create applications for mobile devices, such as iPhones and
+Androids.
+Mobile application developers utilize multiple programming languages to optimize application
+functioning on a variety of mobile platforms. Individuals in this field may find diverse project and
+employment opportunities, including optimizing mobile versions of existing applications, designing
+game apps, or designing functional lifestyle apps.
+Front-end web development, also known as client-side development is the practice of
+producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and
+interact with them directly. The challenge associated with front end development is that the tools and
+techniques used to create the front end of a website change constantly and so the developer needs to
+constantly be aware of how the field is developing.
+A front-end developer architects and develops websites and applications using web
+technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the Open Web Platform or act as
+compilation input for non-web platform environments (i.e., React Native).
+Back-end developers primarily develop and maintain the core functional logic and operations
+of a software application or information system. Typically, a back-end developer has expert
+programming skills in C++, C#, Java and other high-level programming languages. The key job role of
+a back-end developer is to ensure that the data or services requested by the front-end system or
+software are delivered through programmatic means. Back-end developers also create and maintain the
+entire back-end of a system, which consists of the core application logic, databases, data
+and application integration, API and other back-end processes. Moreover, a back-end developer
+performs the testing and debugging of any back-end application or system.
